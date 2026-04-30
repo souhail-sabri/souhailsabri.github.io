@@ -48,7 +48,7 @@ This GitHub includes:
 
 ## 🔗 Links
 
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/in/souhailsabri
 
 
 ---
