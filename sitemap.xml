@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- MAIN SITE -->
   <url>
     <loc>https://souhail-sabri.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- CORE PAGES -->
   <url>
     <loc>https://souhail-sabri.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
@@ -22,9 +24,10 @@
   <url>
     <loc>https://souhail-sabri.github.io/resume.html</loc>
     <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
+  <!-- HIGH VALUE PAGES -->
   <url>
     <loc>https://souhail-sabri.github.io/souhail-sabri-mango-orzo-salad-recipe.html</loc>
     <changefreq>monthly</changefreq>
@@ -41,6 +44,13 @@
     <loc>https://souhail-sabri.github.io/tumblr.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <!-- NEW DOMAIN (IMPORTANT) -->
+  <url>
+    <loc>https://souhailsabri.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 
 </urlset>
